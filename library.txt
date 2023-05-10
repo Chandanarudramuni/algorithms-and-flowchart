@@ -1,0 +1,77 @@
+ALGORITHM FOR LIBRARY MANAGEMENT SYSTEM                                          
+
+1.Start
+2. read books
+3.add books
+4.update books
+5.remove books
+6.search books
+7.reserve books
+8.check out books
+9.return books
+10.track book history
+11.make  reports
+12.stop
+
+
+
+ALGORITHM FOR ATM TRANSACTIONS
+1.start
+2. insert card and enter PIN
+3.if pin is correct
+4.give options as below
+   a) withdraw cash-enter amount-want reciept
+   b) check balance
+   c) deposit -enter amount
+   d) change PIN-enter current pin-enter new pin
+   e) cancel
+5.if pin is incorrect
+6.re-enter password
+7.stop
+
+
+
+ALGORITHM FOR RESTURANT MANAGEMENT SYSTEM
+a) order management
+1.Start
+2.read an item
+3.confirm order
+4. notification for resturant
+5.order preparation
+6.hand over order to the delivery person
+7.delivery person updates the status to system which can access by both resturant and customer
+8.payment
+9.oder deliverd
+10.feedback
+11.collects data
+12.stop
+
+
+b)kitchen management algorthim
+1.start
+2.recive order
+3.prepare order
+4.ingridients management
+5.quality conrol
+6.garnishing to attract and maintain standards
+7.order delivery
+8.tracking of delivery
+9.analyse data
+10.stop
+
+
+
+c)employee management algorithm
+1.start
+2.emloyee information
+3.attendance tracking
+4.payment details
+5.performance tracking
+6.training
+7.schedule management
+8.communication and collabration
+9.terms and conditions
+10.employee feedback
+11.analyse data
+12.stop
+
